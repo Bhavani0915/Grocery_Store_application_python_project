@@ -1,9 +1,9 @@
 # Grocery_Store_application_python_project
 Grocery Store Management Application developed with Python, Flask, and MySQL. Designed to streamline grocery store operations by managing products, inventory, and store records through a robust database-backed system.
 
-In this python project, we will build a grocery store management application. It will be 3 tier application,
+In this python project, we will build a grocery store management application. It will be 3 tier application,<br>
 
-**Front end:** UI is written in HTML/CSS/Javascript/Bootstrap \n
+**Front end:** UI is written in HTML/CSS/Javascript/Bootstrap <br>
 **Backend:** Python and Flask
 **Database:** mysql
 
