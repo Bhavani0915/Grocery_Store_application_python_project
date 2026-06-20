@@ -32,8 +32,7 @@ Clone the repository:<br>
 git clone https://github.com/Bhavani0915/Grocery_Store_application_python_project.git<br>
 Navigate to the project directory:<br>
 cd Grocery_Store_application_python_project<br>
-Install dependencies:<br>
-pip install -r requirements.txt<br>
+Install dependencies.<br>
 Configure MySQL database credentials.<br>
 Run the application:<br>
 python server.py<br>
