@@ -4,36 +4,36 @@ Grocery Store Management Application developed with Python, Flask, and MySQL. De
 In this python project, we will build a grocery store management application. It will be 3 tier application,<br>
 
 **Front end:** UI is written in HTML/CSS/Javascript/Bootstrap <br>
-**Backend:** Python and Flask
-**Database:** mysql
+**Backend:** Python and Flask <br>
+**Database:** mysql <br>
 
 
 
-**Prerequisites**
-Python 3.x
-MySQL Server
+**Prerequisites**<br>
+Python 3.x<br>
+MySQL Server<br>
 
-**Download MySQL Installer:**
+**Download MySQL Installer:**<br>
 
-https://dev.mysql.com/downloads/installer/
+https://dev.mysql.com/downloads/installer/<br>
 
-**Install Required Package**
-pip install mysql-connector-python
-pip install flask
+**Install Required Package**<br>
+pip install mysql-connector-python<br>
+pip install flask<br>
 
-**Run the Application**
-Configure MySQL database settings in sql_connection.py
-Start the Flask server
-python server.py
-Open the UI in your browser.
+**Run the Application**<br>
+Configure MySQL database settings in sql_connection.py<br>
+Start the Flask server<br>
+python server.py<br>
+Open the UI in your browser.<br>
 
-**Installation**
-Clone the repository:
-git clone https://github.com/Bhavani0915/Grocery_Store_application_python_project.git
-Navigate to the project directory:
-cd Grocery_Store_application_python_project
-Install dependencies:
-pip install -r requirements.txt
-Configure MySQL database credentials.
-Run the application:
-python server.py
+**Installation**<br>
+Clone the repository:<br>
+git clone https://github.com/Bhavani0915/Grocery_Store_application_python_project.git<br>
+Navigate to the project directory:<br>
+cd Grocery_Store_application_python_project<br>
+Install dependencies:<br>
+pip install -r requirements.txt<br>
+Configure MySQL database credentials.<br>
+Run the application:<br>
+python server.py<br>
