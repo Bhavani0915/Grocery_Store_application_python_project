@@ -29,7 +29,7 @@ Open the UI in your browser.
 
 **Installation**
 Clone the repository:
-git clone https://github.com/your-username/Grocery_Store_application_python_project.git
+git clone https://github.com/Bhavani0915/Grocery_Store_application_python_project.git
 Navigate to the project directory:
 cd Grocery_Store_application_python_project
 Install dependencies:
